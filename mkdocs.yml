@@ -1,0 +1,6 @@
+site_name: CDMOJ Docs
+site_url: https://docs.naquadah.com/
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contests: contests.md
